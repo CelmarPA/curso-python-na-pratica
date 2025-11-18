@@ -1,0 +1,23 @@
+Exercício 1
+Suponha que, no seu computador, em alguma pasta,
+há um arquivo chamado frase.py.
+
+Quais comandos você precisa utilizar para descobrir
+onde você está e como navegar dentro das pastas
+a fim de executar o código em frase.py?
+
+Exercício 2
+Crie uma pasta (dentro da sua pasta atual) chamada
+aulas-python, entre nela e crie um arquivo chamado
+teste.py. Esse arquivo deve ser um código simples
+apresentando a frase "Um curso de Python". Execute Esse
+código.
+
+Exercício 3
+Dentro da pasta aulas_python, volte para a "Pasta
+pai" dela, e nessa pasta pai, crie um arquivo de 
+texto chamado estado.py.
+
+Nesse arquivo estado.py, escreva um código Python que
+exiba na tela o nome do estado de onde você é. Execute 
+o código.

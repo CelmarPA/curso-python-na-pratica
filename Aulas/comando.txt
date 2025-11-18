@@ -1,0 +1,6 @@
+pwd ➜ mostra onde estamos.
+cd ➜ muda de pasta.
+ls ➜ lista os arquivos da pasta.
+mkdir ➜ cria uma nova pasta.
+ni / touch ➜ cria um novo arquivo.
+cat ➜ mostra os conteúdo de um arquivo.

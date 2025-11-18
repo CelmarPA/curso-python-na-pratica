@@ -1,0 +1,21 @@
+Exercício 1
+
+Crie duas variáveis, uma chamada nome e outra chamada
+idade. Atribua a elas o nome e a idade de alguém, e
+mostre essas informações na tela no seguinte formato:
+Me chamo [nome] e tenho [idade] anos.
+
+Exercício 2
+
+Crie duas variáveis: nome e animal, contendo o nome e o
+animal de estimação de alguém. Em seguida, mostre essas
+informações no seguinte formato, usando as três formas de exibir text junto com variáveis:
+O(a) [nome], tem um [animal]
+
+Exercício 3
+
+Crie uma constante chamada PAIS com o valor "Brasil",
+uma variável chamada nome com o nome de alguém, e
+outra chamada idade com a idade dessa pessoa. Exiba 
+essas informações no seguinte formato:
+[nome] mora no país [PAIS] e tem [idade] anos.

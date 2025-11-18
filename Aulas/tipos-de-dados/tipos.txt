@@ -1,0 +1,4 @@
+str: dados textuais (strings)
+int: números inteiros (sem parte decimal)
+float: números decimais (com parte decimal, ponto)
+bool: valores lógicos (verdadeiro e falso)
