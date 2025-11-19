@@ -1,0 +1,53 @@
+Exercício 1 - Operadores Aritméticos
+
+Crie duas variáveis, com valores inteiros.
+
+Faça com essas variáveis todas a operações aritméticas
+mostradas na aula. Armazene os resultados de cada 
+operação em variáveis separadas, e utilize f-strings
+para imprimir cada resultado no seguinte modelo:
+(exemplo para a soma)
+
+"Resultado da soma: 10"
+
+Exercício 2 - Trabalhando com números decimais
+
+Crie duas variáveis, uma contendo um valor com três
+casas decimais, e a outra contendo um valor decimal
+com duas casa decimais.
+
+Multiplique essas duas variáveis, e apresente o 
+resultado contendo duas casa decimais.
+
+Exercício 3 - Operadores Relacionais
+
+Crie duas variáveis inteiras. Faça todas as operações
+relacionais apresentadas na aula, exibindo o resultado de
+cada comparação.
+
+Exercício 4 - Vou conseguir viajar?
+
+Pense na seguinte situação: ano que vem, eu quero viajar.
+Mas, eu só consigo viajar se eu estiver de férias do trabalho
+e tiver conseguido comprar as passagens.
+
+Não consegui as ferias no trabalho, mas consegui
+comprar as passagens.
+
+Se eu fosse utilizar variáveis booleanas do Python,
+e um operador lógico para montar um código para exibir
+se desse jeito eu vou ou não viaja, como
+esse código ficaria?
+
+Exercício 5 - Pode entrar no evento?
+
+Eu só posso participar de um evento na minha cidade se
+eu tiver um convite, ou então, se meu nome estiver na
+lista na entrada.
+
+Meu nome não está na lista, mas eu tenho um convite.
+
+Se eu fosse utilizar variáveis booleanas do Python,
+e um operador lógico para montar um código para exibir
+se desse jeito eu vou ou não conseguir entrar, como
+esse código ficaria?

@@ -1,0 +1,3 @@
+Aritméticos - usados para fazer cálculos matemáticos.
+Relacionais - usados para comparar valores.
+Lógicos - usados para combinar condições, normalmente booleanos.
