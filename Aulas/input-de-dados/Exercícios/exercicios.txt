@@ -1,0 +1,25 @@
+Exercício 1
+
+Peça ao usuário para digitar o nome dele
+e exiba uma saudação personalizada.
+Ex: Olá, Fulano! Seja vem vindo!
+
+Exercício 2
+
+Peça dois números inteiros ao usuário,
+some-os, e apresente o resultado em uma
+frase no formato a baixo
+Ex: O resultado é 20
+
+Exercício 3
+
+Peça duas notas ao usuário (podem ter
+casas decimais) e mostre a média delas.
+
+Exercício 4
+
+Peça ao usuário o nome, idade e estado
+dele, e exiba um frase completa no 
+formato abaixo:
+Ex: Fulano tem 21 anos e mora no 
+estado Mato Grosso.
