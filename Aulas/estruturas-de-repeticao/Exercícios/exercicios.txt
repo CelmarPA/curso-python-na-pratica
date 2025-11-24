@@ -1,0 +1,20 @@
+Exercício 1
+ 
+Monte um programa que peça, um de cada vez,
+vários números para o usuário até que ele 
+digite zero. Ao fim, mostre a soma de todos
+esses números que ele digitou.
+
+Exercício 2
+
+Monte um programa que, para um determinado
+número informado pelo usuário (limite),
+exiba o produtório dos números de 1 até
+esse limite.
+
+Exercício 3 
+
+Monte um programa que, para um determinado
+número informado pelo usuário (limite),
+exiba o dobro de cada número de 1 até esse
+limite.

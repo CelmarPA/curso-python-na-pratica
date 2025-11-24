@@ -1,0 +1,38 @@
+Estruturas de repetição
+
+Também conhecidas como loops. Um bloco
+de código pode ser executado várias vezes,
+até que uma condição seja atendida.
+
+Principais: for e while
+
+for -> quando temos uma noção da quantidade
+de vezes que vamos repetir algo.
+
+while -> quando queremos repetir até que 
+uma condição não seja mais atendida.
+
+Estrutura do for
+
+for ÍNDICE in SEQUENCIA_DE_VALORES:
+    comando_1
+    comando_2
+
+range() -> retorna uma sequencia
+de valores dentro de uma faixa.
+Ex: range(1, 7) retorna [1, 2, 3, 4, 5, 6]
+
+Estrutura do while
+
+while CONDICAO:
+    comando_1
+    comando_2
+    comando_3
+
+OBS: É fundamental que, dentro do bloco de
+código de uma estrutura while, algo possa
+causar uma mudança na condição, para que ela 
+deixe de ser verdadeira em algum momento.
+
+Do contrário, há o risco de haver um loop
+infinito
