@@ -1,0 +1,41 @@
+Repetir código -> pouco prático
+
+Funções
+
+São blocos de códigos separados
+e reutilizáveis, cada um tendo um
+objetivo e/ou tarefa em específico.
+
+Estrutura de um função no Python
+
+def NOME_FUNCAO(PARAM_1, PARAM_2):
+    comando_1
+    comando_2
+    comando_3
+
+    return VALOR_RETORNO
+
+Variações
+
+Sem parâmetros, sem VALOR_RETORNO:
+
+def NOME_FUNCAO():
+    comando_1
+    comando_2
+    comando_3
+
+Com parâmetros, sem retorno:
+
+def NOME_FUNCAO(PARAM_1, PARAM_2):
+    comando_1
+    comando_2
+    comando_3
+
+Sem parâmetros, com retorno:
+
+def NOME_FUNCAO():
+    comando_1
+    comando_2
+    comando_3
+
+    return VALOR_RETORNO

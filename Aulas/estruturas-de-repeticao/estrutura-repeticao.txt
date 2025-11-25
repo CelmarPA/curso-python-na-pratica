@@ -35,4 +35,4 @@ causar uma mudança na condição, para que ela
 deixe de ser verdadeira em algum momento.
 
 Do contrário, há o risco de haver um loop
-infinito
+infinito.

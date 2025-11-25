@@ -1,0 +1,25 @@
+Exercício 1
+
+Crie uma lista chamada países com alguns 
+nomes de países dentro dela. Em seguida:
+- Adicione um novo país ao fim da lista
+- Adicione um novo país logo antes da posição 1
+- Remova um novo país ao fim da lista
+- Remova um novo país pelo índice
+- Mostre o total de países na lista.
+
+Exercício 2
+
+Crie um dicionário que armazene as 
+informações de um carro, informações essas
+que serão a marca, modelo e ano.
+Em seguida, exiba uma frase apresentando
+essas informações do carro, no seguinte
+formato:
+O carro é um MARCA MODELO do ano ANO
+
+Exercício 3
+
+Crie uma lista com números repetidos,
+e através da conversão desta para um 
+conjunto, elimine os valores duplicados.

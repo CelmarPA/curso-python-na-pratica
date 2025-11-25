@@ -1,0 +1,13 @@
+Variável -> guarda apenas um valor por vez
+Coleção -> múltiplos valores por vez
+
+Principais tipos de coleções
+
+- Listas: elementos ordenados (com posição)
+e mutáveis.
+- Tuplas: elementos ordenados (com posição)
+e imutáveis.
+- Conjuntos: elementos não ordenados
+(sem posição) e não pode se repetir.
+-Dicionários: elementos na forma de 
+pares chave-valor.
