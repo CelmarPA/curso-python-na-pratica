@@ -17,11 +17,19 @@ def divisao(a, b):
 def menu():
     print(f"\n=== CALCULADORA ===\n1 - Soma\n2 - Subtração\n3 - Multiplicação\n4 - Divisão\n0 - Sair")
 
+def formatar_resultado(resultado):
+    if resultado.is_integer():
+        resultado_convertido = int(resultado)
+
+        return resultado_convertido
+    
+    return resultado
+
 
 resultado_atual = float(input("Digite um valor inicial: "))
 
 while True:
-    print(f"Resultado atual: {resultado_atual}")
+    print(f"Resultado atual: {formatar_resultado(resultado_atual)}")
     menu()
 
     opcao = input("Escolha uma operação: ")
