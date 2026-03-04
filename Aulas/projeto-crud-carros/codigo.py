@@ -41,14 +41,12 @@ def cadastrar_carro():
 
         return
 
-    ano = input("Digite o ano: ").strip()
+    try:
+        ano = int(input("Digite o ano: "))
 
-    if len(ano) == 0:
-        print("\nO campo ano não pode ser vazio!")
-
+    except ValueError:
+        print("\nAno inválido. Digite apenas números.")
         return
-
-    ano = int(ano)
 
     carro = {
         "placa": placa,
@@ -63,6 +61,10 @@ def cadastrar_carro():
 
 
 def listar_carros():
+    if len(carros) == 0:
+        print("\nNenhum carro cadastrado.")
+        return
+
     print("\n--------------------- LISTA DE CARROS ---------------------")
 
     for carro in carros:
@@ -92,7 +94,7 @@ def editar_carro():
 
     nova_placa = input(f"Nova placa (atual: {carro_existente['placa']}): ").strip()
 
-    if len(nova_placa) > 0:
+    if len(nova_placa) > 0 and nova_placa.lower() != carro_existente["placa"]:
         if encontrar_carro(nova_placa) != None:
             print("\nJá existe um outro carro com essa placa!")
 
@@ -113,8 +115,12 @@ def editar_carro():
     novo_ano = input(f"Novo ano (atual: {carro_existente['ano']}): ")
 
     if len(novo_ano) > 0:
-        dicionario_atualizacao["ano"] = int(novo_ano)
-            
+        try:
+            dicionario_atualizacao["ano"] = int(novo_ano)
+        
+        except ValueError:
+            print("\nAna inválido. Alterações ignoradas.")
+            return
 
     carro_existente["placa"] = dicionario_atualizacao["placa"]
     carro_existente["cor"] = dicionario_atualizacao["cor"]

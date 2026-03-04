@@ -1,0 +1,11 @@
+{
+  "nome": "Daniel",
+  "idade": 50,
+  "altura": 1.76,
+  "dev": true,
+  "linguagens": [
+    "Python",
+    "Java",
+    "Go"
+  ]
+}
