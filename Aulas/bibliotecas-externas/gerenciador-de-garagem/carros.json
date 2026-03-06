@@ -1,0 +1,14 @@
+[
+  {
+    "placa": "cdc-2026",
+    "cor": "preto",
+    "modelo": "corolla",
+    "ano": 2026
+  },
+  {
+    "placa": "abc-123",
+    "cor": "laranja",
+    "modelo": "prisma",
+    "ano": 2025
+  }
+]
