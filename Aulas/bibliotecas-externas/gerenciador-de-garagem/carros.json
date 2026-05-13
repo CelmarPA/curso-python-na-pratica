@@ -6,9 +6,15 @@
     "ano": 2026
   },
   {
-    "placa": "abc-123",
-    "cor": "laranja",
-    "modelo": "prisma",
-    "ano": 2025
+    "placa": "pip-2025",
+    "cor": "Amarelo",
+    "modelo": "Hb20",
+    "ano": 2018
+  },
+  {
+    "placa": "sob-1773",
+    "cor": "Amarelo",
+    "modelo": "Gol",
+    "ano": 1999
   }
 ]
